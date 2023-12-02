@@ -1,6 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Sumeet Makhija",
+	"description": "Learning npm and node from freeCodeCamp",
+	"license": "MIT",
+	"keywords": [
+		"freecodecamp",
+		"learning",
+		"node"
+	],
+	"version": "1.0.01",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
